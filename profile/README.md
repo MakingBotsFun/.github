@@ -1,7 +1,6 @@
 ## 👋 Welcome to the Making Bots Fun's github
 
 Making Bots Fun is a discord bot company which provides bots to the public. You can in this organization's repositories contribute code, tell issues, etc.
-You can even provide suggestions.
 
 <!--
 
