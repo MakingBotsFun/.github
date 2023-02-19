@@ -6,9 +6,13 @@ Making Bots Fun is a discord bot company which provides bots to the public. You 
 # NOTICE
 **Effective starting 8/10/2022**
 <br>
-**FORMAL ANNOUNCEMENT OF DISCONTINUATION OF BOTS BY FOUNDERS**
 </br>
-Bots are now discontinued. People may use them however there will be no new updates / support. Developers can continue developing if they want.
+**FORMAL ANNOUNCEMENT OF DISCONTINUATION OF BOTS BY FOUNDERS**
+<br>
+</br>
+Bots are now discontinued. People may use them however there will be no new updates / support.
+
+After a long time of writing bots, Making Bots Fun has been considered inactive / closed. We appreciate all developers who took time to make bots on Discord with us, countlessly contributing knowing they are making a change in discord and open source. The reason why Making Bots Fun was closed, was because of Discord not being able to help Arjun out with some complications with his account, losing his whole account, and since the Making Bots Fun server has <100 members, Discord would not be able to transfer ownership to one of the co-owners or owners for the Making Bots Fun, and many of the bots got deleted, unfortunately, including verified bots.
 
 <!--
 
